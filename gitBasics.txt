@@ -1,0 +1,4 @@
+this is to understand git basics
+repository  is like a directory
+
+directory GitTutorial -> git init
